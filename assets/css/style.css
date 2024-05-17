@@ -1,0 +1,22 @@
+body {
+
+
+    aside {
+        background-color: greenyellow;
+
+    }
+
+    main {
+        background-color: rgb(127, 26, 99);
+
+    }
+
+    footer {
+        background-color: rgb(60, 41, 143);
+
+    }
+
+    .prueba {
+        background-color: bisque;
+    }
+}
